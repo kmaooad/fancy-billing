@@ -1,15 +1,15 @@
 {
   "payments": [
-    { "customer": "920", "amount": 200 },
-    { "customer": "930", "amount": 80 },
-    { "customer": "940", "amount": 150 },
-    { "customer": "940", "amount": 100 },
-    { "customer": "950", "amount": 50 },
-    { "customer": "950", "amount": 50 }
+    { "customer": "920","date": "2019-10-05", "amount": 200 },
+    { "customer": "930","date": "2019-10-04", "amount": 80 },
+    { "customer": "940","date": "2019-10-04", "amount": 150 },
+    { "customer": "940","date": "2019-10-04", "amount": 100 },
+    { "customer": "950","date": "2019-10-03", "amount": 50 },
+    { "customer": "950","date": "2019-10-07", "amount": 50 }
   ],
   "refunds":[
-    { "customer": "940", "amount": 50 },
-    { "customer": "920", "amount": 100 }
+    { "customer": "940","date": "2019-10-08", "amount": 50 },
+    { "customer": "920","date": "2019-10-08", "amount": 100 }
   ],
   "usages": [
     { "service": 2, "customer": "920", "date": "2019-10-02", "quantity": 415 },
