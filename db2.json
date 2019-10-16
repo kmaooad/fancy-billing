@@ -5,9 +5,11 @@
     { "customer": "940", "amount": 150 },
     { "customer": "940", "amount": 100 },
     { "customer": "950", "amount": 50 },
-    { "customer": "950", "amount": 50 },
-    { "customer": "940", "amount": -50 },
-    { "customer": "920", "amount": -100 }
+    { "customer": "950", "amount": 50 }
+  ],
+  "refunds":[
+    { "customer": "940", "amount": 50 },
+    { "customer": "920", "amount": 100 }
   ],
   "usages": [
     { "service": 2, "customer": "920", "date": "2019-10-02", "quantity": 415 },
